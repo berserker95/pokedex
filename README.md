@@ -1,38 +1,42 @@
-# Pokedex 
+# Welcome to pokedex 👋
+[![Version](https://img.shields.io/npm/v/pokedex.svg)](https://www.npmjs.com/package/pokedex)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/berserker95/pokedex#readme)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/berserker95/pokedex/blob/master/LICENSE.md)
 
-This project was created with:
-* React;
-* TypeScript;
-* Sass;
-* Vite
+> Simple pokedex created with React, TypeScript and Vite
 
-## Available Scripts
+### 🏠 [Homepage](https://github.com/berserker95/pokedex#readme)
 
-In the project directory, you can run:
+## Install
 
-### `npm start`
+```sh
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://127.0.0.1:8080/](http://127.0.0.1:8080/) to view it in the browser.
+## Usage
 
-You will also see any lint errors in the console.
+```sh
+npm run start
+```
 
-### `npm run build`
+## Author
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+👤 **Giovanni Albano**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Website: https://www.linkedin.com/in/giovannialbano1995/
+* Github: [@berserker95](https://github.com/berserker95)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/giovannialbano1995\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/giovannialbano1995\/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Show your support
 
-## Learn More
+Give a ⭐️ if this project helped you!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn:
-React: (https://reactjs.org/);
-TypeScript: (https://www.typescriptlang.org/);
-Sass: (https://sass-lang.com/documentation/);
-Vite: (https://vitejs.dev/guide/).
+## 📝 License
+
+Copyright © 2022 [Giovanni Albano](https://github.com/berserker95).
+
+This project is [MIT](https://github.com/berserker95/pokedex/blob/master/LICENSE.md) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
