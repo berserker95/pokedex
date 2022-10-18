@@ -25,7 +25,7 @@ npm run start
 
 * Website: https://www.linkedin.com/in/giovannialbano1995/
 * Github: [@berserker95](https://github.com/berserker95)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/giovannialbano1995\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/giovannialbano1995\/)
+* LinkedIn: [https:\/\/www.linkedin.com\/in\/giovannialbano1995\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/giovannialbano1995\/)
 
 ## Show your support
 
