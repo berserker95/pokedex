@@ -1,0 +1,20 @@
+.input-search {
+    width: 22rem;
+    height: 2.5rem;
+    font-size: 1rem;
+    border-radius: 20px;
+    background-color: $white;
+    border-color: $white;
+    color: $black;
+    border-style: solid;
+    padding: 0.375rem 0.75rem;
+    outline: none;
+    margin-top: -2.2rem;
+    &:focus {
+        box-shadow: 0 2px 6px 0 #17171752 !important;
+    }
+    &::-webkit-search-cancel-button {
+        -webkit-appearance: none;
+       
+    }
+}

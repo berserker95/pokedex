@@ -1,6 +1,14 @@
+// Import all of Bootstrap's CSS
+@import "~bootstrap/scss/bootstrap";
+
 @import "abstracts/functions";
 @import "abstracts/mixins";
 @import "abstracts/variables";
 
 @import "base/reset";
-@import "base/reset";
+@import "base/tipography";
+@import "base/common";
+
+
+
+@import "components/inputfield";
